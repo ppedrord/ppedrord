@@ -24,11 +24,14 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppedrord&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-<div> 
+<div align="center">
   <a target="_blank" href="https://www.instagram.com/ppedrord/" ><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" ></a>
   <a target="_blank" href="mailto:pedropaulommb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" ></a>
   <a target="_blank" href="https://www.linkedin.com/in/ppedrord" ><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
+  
+<!--
   <a target="_blank" href="https://ppedrord.herokuapp.com/#portfolio" ><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" ></a>
+-->
 
  
   ![Snake animation](https://github.com/ppedrord/ppedrord/blob/output/github-contribution-grid-snake.svg)
